@@ -9,7 +9,7 @@ Instructions(Windows Only):
 - Clone repo or download zip of repo.
     - Unzip folder if needed.
 - Open folder.
-- Double-click or Run 'chimp.exe'.
+- Double-click or Run 'main.exe'.
 
 Controls:
 ---
